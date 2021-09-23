@@ -1,0 +1,6 @@
+[submodule "Messenger-Forensics"]
+	path = Messenger-Forensics
+	url = https://github.com/esby97/Messenger-Forensics.git
+[submodule "Signal/Signal-Extract-AndroidKeyStore"]
+	path = Signal/Signal-Extract-AndroidKeyStore
+	url = https://github.com/esby97/Signal-Extract-AndroidKeyStore.git
